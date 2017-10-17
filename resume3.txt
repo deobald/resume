@@ -1,0 +1,134 @@
+= Education =
+
+B.S. Hons. Coop, University of Regina, Regina SK - 2005
+
+
+= Technical Proficiency =
+
+Languages: Clojure/ClojureScript, Ruby, C#, Java, Python, JavaScript, C, C++, SQL
+
+Platforms: Compojure, Rails, .NET, J2EE
+
+Databases: Microsoft SQL Server, Oracle, MySQL, PostgreSQL
+
+
+= Self-Employment =
+
+Nilenso Software LLP, Bangalore KA, India, 2013 - Present
+www.nilenso.com
+
+  - Founder
+  - Wrote and open-sourced India's first international worker co-operative constitution
+  - Marketing, branding, sales, recruitment
+  - Drafted menstrual leave policy
+  - Sold multi-year, partnership contracts with Staples, GO-JEK
+
+Monohost Webhosting, Regina SK, Canada, 2004 - 2005
+www.mono-host.com [defunct]
+
+  - Developed integrated client relations management system,
+    incorporating open source web applications where appropriate
+  - Integration of Mono with client control panel and administrative backend
+  - Premiere webhost for Mono-enabled (ASP.net) websites at Mono 1.0 launch
+  - Dealt with all customer relations
+
+Citygroup Consulting, Regina SK, Canada, 2003 - 2005
+www.citygroup.ca [defunct]
+
+  - Software design and implementation on contract basis
+  - Advising and dealing with customer inquiries
+  - Complete business accounting
+
+Omnisite Web Development, Gull Lake SK, Canada, 1998 - 2002
+www.omnisite.net [defunct]
+
+  - Website / web application design and  implementation
+  - All customer relations
+  - Hiring contract employees, scheduling workloads
+
+
+= Work Experience =
+
+C42 Engineering Pvt Ltd.
+1st Floor, #147, 10th Cross,
+Indiranagar Stage 1,
+Bangalore - 560038
+Jan 2012 - Jul 2013
+Senior Developer, Product Lead, CTO
+  - Ruby development
+  - Architect and team lead
+  - Clojure consulting and training
+  - Initiate open source Clojure projects
+
+DRW Trading Group
+540 W. Madison Street, Suite 2500
+Chicago, IL 60661
+Jan 2009 - Sep 2011
+Senior Developer
+  - .NET, JRuby, Clojure development
+  - Team lead
+
+ThoughtWorks Canada
+600 6th ave sw, suite 1100
+Calgary AB, Canada
+Jun 2008 - Nov 2008
+Tech Lead
+  - Ruby and .NET development
+
+ThoughtWorks Technologies (India) Pvt Ltd.
+GF-01 and MZ-01 Tower C
+Panchshil Tech Park
+Yerwada Pune - 411006
+Jul 2007 - Jun 2008
+Tech Lead
+  - College presentations, recruitment
+  - Ruby and Java development
+  - Project kickoff and team lead
+
+ThoughtWorks Canada
+600 6th ave sw, suite 1100
+Calgary AB, Canada
+Jan 2005 - Jul 2007
+Developer
+  - .NET, Ruby, and Java development
+  - Software project kickoff and organizational transformation projects
+
+Adxstudio Inc.
+200 - 1445 Park Street
+Regina, SK, Canada
+Feb 2005 - Oct 2005
+.NET Developer
+  - Client relations, business analysis, support
+  - ASP.net, Windows Forms development
+  - Conversion of legacy applications to .NET
+
+Royal Canadian Mounted Police
+RCMP Academy, Depot Division
+5600 11th Avenue, Regina, SK, Canada
+Sep 2003 - Jun 2004
+.NET Developer
+  - Wrote specifications based on requirements meetings with clients
+  - Introduced .NET Framework to department
+  - Designed, developed and maintained organization-wide security software
+    and accounting software based on new CRA XML documentation requirements
+
+Communications Security Establishment
+P.O. Box 9703, Terminal
+Ottawa, ON, Canada
+Jan - Apr 2002
+IT Architect
+  - Held Top Secret government security clearance
+  - Designed and developed directory server applications
+  - Implemented secure network infrastructure
+  - Consolidated organization-wide network and email systems
+
+
+= Activities and Interests =
+
+  - Open source software development
+  - University of Regina Computer Science Student’s Society:
+    President, Communications Director, and General Executive
+  - Canadian Information Processing Society Member
+  - Kempo, swimming, skiing, bicycling, yoga, running, kayaking,
+    backpacking, volleyball
+  - Off-grid housing and construction of sustainable housing
